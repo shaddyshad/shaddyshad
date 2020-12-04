@@ -1,8 +1,4 @@
 ## Shaddyshad github
-Welcome to my github
+Welcome to my github <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" alt="Hello" width="30px" />
 
-I am a big fan of open source projects. I recently learnt rust and it's my new favorite.
-
-Show me some great rust code and I will subscribe.
-
-Besides, I am a python and javascript intermediate. React and express stack being my favorite. Python for ML and DS.
+Javascript <img src="http://gph.is/1wpL654" alt="here we are" width="30px" />
