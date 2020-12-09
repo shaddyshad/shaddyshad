@@ -12,4 +12,4 @@
   MongoDB
 ```
 
-
+![shaddyshad github stats](https://github-readme-stats.vercel.app/api?username=shaddyshad&count_private=true)
