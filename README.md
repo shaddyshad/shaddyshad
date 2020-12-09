@@ -1,5 +1,15 @@
 ## Shaddyshad github
 # Welcome to my github 
-<img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" alt="Hello"  />
+
+### Fullstack engineer 
+```
+  Front-end - ReactJS
+  Backend - ExpressJS/Flask Python
+  Systems - JS/Python/Rust 
+  GUI - Sciter (rust/python)
+  ....
+  Azure services
+  MongoDB
+```
 
 
